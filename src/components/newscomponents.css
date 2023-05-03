@@ -1,0 +1,6 @@
+.gap{
+    margin: 5.5em;
+    display: grid;
+    grid-template-columns: repeat(3,20em);
+    grid-gap: 3em;
+}

@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* position: sticky;
+    top: 0; */
+    /* z-index: 100; */
+}
+
+.moment{
+    color: rgb(0, 0, 0);
+}
+
+.m1{
+    font-weight: 600;
+}
+
+.m2{
+    font-size: small;
+    font-weight: 430;
+}
+
+.box ul{
+    display: flex;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    margin-right: 10px;
+    margin-left: 0px;
+}
+
+.box ul li{
+    margin-top: 1.5rem;
+    margin: 1rem;
+    list-style: none;
+}
+
+.box ul > div{
+    margin-top: 1rem;
+    padding-right: 10px;
+}
+
+.box{
+    background-color: rgb(255, 255, 255);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}

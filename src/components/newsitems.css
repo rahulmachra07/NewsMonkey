@@ -1,0 +1,46 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+
+.boxx{
+    border: 0.1em solid rgb(233, 230, 230);
+    margin: 1em;
+    width: 20em;
+    height: 20em;
+}
+
+.boxx img{
+    width: 19.8em;
+    height: 10em;
+}
+
+.boxx h5{
+    margin-left: 0.3em;
+    margin-right: 0.3em;
+}
+
+.boxx span{
+    margin: 0.3em;
+    display: block;
+}
+
+.boxx a{
+    margin: 0.5em;
+    padding: 0.1em;
+
+    color: rgb(96, 18, 241);
+    /* color: white; */
+    width: 5em;
+    height: 2em;
+    border: none;
+    border-radius: 0em;
+    font-size: 1em;
+    /* text-decoration: none; */
+}
+
+.boxx a:hover{
+    /* background-color: rgba(0, 0, 0, 0.726); */
+    color: rgb(142, 113, 238);
+}
